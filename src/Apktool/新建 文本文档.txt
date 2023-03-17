@@ -1,0 +1,1 @@
+ C:\Users\94335\Desktop\apktool.jar apktool d  C:\Users\94335\Desktop\GraffitiNotes.apk
